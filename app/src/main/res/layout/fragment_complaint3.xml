@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:background="#FF4ABFFD">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Child Trafficking/\nबच्चों का अवैध व्यापार"
+            android:paddingLeft="40dp"
+            android:paddingRight="40dp"
+            android:textAlignment="center"
+            android:textStyle="bold"
+            android:textColor="#000000"
+            android:textSize="30dp"
+            android:elevation="10dp"
+            android:layout_marginTop="30dp" />
+
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Please try to fill all the following fields.\n(कृपया निम्नलिखित सभी क्षेत्रों को भरने का प्रयास करें)\nThat can help us to reach the depth of the case.\n(इससे हमें मामले की गहराई तक पहुंचने में मदद मिल सकती है)"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:textAlignment="center"
+            android:textColor="#000000"
+            android:layout_marginTop="30dp" />
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Kidnapper/Suspect's Details (If possible):"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="20dp"
+            android:textColor="#000000"
+            android:layout_marginBottom="5dp"/>
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:hint="\tName"
+            android:background="#5005334c"
+            android:textColorHint="#90ffffff"
+            />
+
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:hint="\tOccupation"
+            android:background="#5005334c"
+            android:textColorHint="#90ffffff"
+            android:layout_marginTop="10dp" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:hint="\tAddress"
+            android:background="#5005334c"
+            android:textColorHint="#90ffffff"
+            android:layout_marginTop="10dp" />
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:hint="\tCharacter Description"
+            android:background="#5005334c"
+            android:textColorHint="#90ffffff"
+            android:layout_marginTop="10dp" />
+
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:hint="\tVictim's Details"
+            android:background="#5005334c"
+            android:textColorHint="#90ffffff"
+            android:layout_marginTop="10dp" />
+
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="11dp"
+            android:background="#000000"
+            android:text="SUBMIT"
+            android:textColor="#ffffff"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="This complaint will be further processed by NCPCR using suo moto cognizance.\nYour name will be kept totally anonymous."
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="30dp"
+            android:textAlignment="center"
+            android:textColor="#000000" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="To know more go to Help/FAQs"
+            android:layout_marginTop="20dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginLeft="10dp"
+            android:textAlignment="center"
+            android:textColor="#000000"
+            android:layout_marginBottom="30dp" />
+
+
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,1032 @@
+<resources>
+    <string name="app_name">Sishu Traan</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string name="nav_item_home">Home</string>
+    <string name="nav_item_forum">Forum</string>
+    <string name="nav_item_complaint">Report A Case</string>
+    <string name="nav_item_help">Help/FAQs</string>
+    <string name="nav_item_aboutus">About Us</string>
+    <string name="nav_item_login">Login</string>
+
+    <string name="auth_failed">Authentication Failed!</string>
+
+    <!-- navigation drawer item labels  -->
+    <string-array name="nav_drawer_labels">
+        <item>@string/nav_item_home</item>
+        <item>@string/nav_item_forum</item>
+        <item>@string/nav_item_help</item>
+        <item>@string/nav_item_complaint</item>
+        <item>@string/nav_item_aboutus</item>
+        <item>@string/nav_item_login</item>
+    </string-array>
+
+    <string name="title_aboutus">About Us</string>
+    <string name="title_help">Help/FAQs</string>
+    <string name="title_complaint">REPORT</string>
+    <string name="title_forum">Forum</string>
+    <string name="title_home">Sishu Traan</string>
+    <string name="title_login">Login</string>
+
+    <string name="data_aboutus">
+
+        "       Shishu Traan(Child Rescue), the word itself explains the motive behind this portal. It is very difficult to reach the very corners of India where there are child rights being violated and this is the reason why NCPCR needed a platform which can spread the awareness of child rights in India as well as gather child rights violation information from all over India in an effective way. Shishu Traan is a part of NCPCR that has an aim to rescue almost every child in India who is not being well provided with their fundamental rights.\n
+        The National Commission for Protection of Child Rights (NCPCR) emphasizes the principle of universality and inviolability of child rights and recognizes the tone of urgency in all the child related policies of the country. For the Commission, protection of all children in the 0 to 18 years age group is of equal importance. Thus, policies define priority actions for the most vulnerable children. This includes focus on regions that are backward or on communities or children under certain circumstances, and so on. The NCPCR believes that while in addressing only some children, there could be a fallacy of exclusion of many vulnerable children who may not fall under the defined or targeted categories. In its translation into practice, the task of reaching out to all children gets compromised and a societal tolerance of violation of child rights continues. This would in fact have an impact on the program for the targeted population as well. Therefore, it considers that it is only in building a larger atmosphere in favour of protection of children's rights, that children who are targeted become visible and gain confidence to access their entitlements."
+
+    </string>
+
+    <string-array name="Select">
+        <item>Select a District</item>
+    </string-array>
+
+    <string-array name="states_array">
+
+        <item>Select a State</item>
+        <item>Andaman and Nicobar Islands</item>
+        <item>Andhra Pradesh</item>
+    <item>Arunachal Pradesh</item>
+<item>Assam</item>
+<item>Bihar</item>
+<item>Chandigarh</item>
+<item>Chhattisgarh</item>
+<item>Dadra and Nagar Haveli</item>
+<item>Daman and Diu</item>
+<item>National Capital Territory of Delhi</item>
+<item>Goa</item>
+<item>Gujarat</item>
+<item>Haryana</item>
+<item>Himachal Pradesh</item>
+<item>Jammu and Kashmir</item>
+<item>Jharkhand</item>
+<item>Karnataka</item>
+<item>Kerala</item>
+<item>Lakshadweep</item>
+<item>Madhya Pradesh</item>
+<item>Maharashtra</item>
+<item>Manipur</item>
+<item>Meghalaya</item>
+<item>Mizoram</item>
+<item>Nagaland</item>
+<item>Odisha</item>
+<item>Puducherry Union Territory</item>
+<item>Punjab</item>
+<item>Rajasthan</item>
+<item>Sikkim</item>
+<item>Tamil Nadu</item>
+<item>Telangana</item>
+<item>Tripura</item>
+<item>Uttar Pradesh</item>
+<item>Uttarakhand</item>
+    <item>West Bengal</item>
+
+    </string-array>
+
+    <string-array name="Andaman">
+        <item>Andaman</item>
+        <item>Nicobar</item>
+    </string-array>
+
+
+
+
+
+    <string-array name="Andhra">
+        <item>Nellore</item>
+        <item>Cuddapah</item>
+        <item>Karim Nagar</item>
+        <item>Kurnool</item>
+        <item>West Godavari</item>
+        <item>Srikakulam</item>
+        <item>Anantpur</item>
+        <item>Adilabad</item>
+        <item>Chittor</item>
+        <item>east Godavari</item>
+        <item>Guntur</item>
+        <item>Hyderabad Urban</item>
+        <item>Khammam</item>
+        <item>Krishna</item>
+        <item>Mehboobnagar</item>
+        <item>Medak</item>
+        <item>Nalgonda</item>
+        <item>Nizamabad</item>
+        <item>Prakasam</item>
+        <item>Ranga Reddy</item>
+        <item>Vishakapatnam</item>
+        <item>Vizianagaram</item>
+        <item>Warangal</item>
+
+    </string-array>
+    <string-array name="Arunachal">
+        <item>Diban Valley(Anini Valley)</item>
+        <item>East Kameng Seppa</item>
+        <item>Itanagar</item>
+        <item>East Siang(Passigath)</item>
+        <item>Lohit(Tezu)</item>
+        <item>Lower Subansiri(Ziro)</item>
+        <item> Khonsa</item>
+        <item> Roin</item>
+        <item> Tawang</item>
+        <item> Changalang</item>
+        <item> Dibang Valley</item>
+        <item> Daporijo</item>
+        <item> Bomdila</item>
+        <item> Alog( West Siang )</item>
+
+
+    </string-array>
+    <string-array name="Assam">
+        <item>Karimganj</item>
+        <item>Darrang</item>
+        <item>Dibrugarh</item>
+        <item>Morigaon</item>
+        <item>Tinsukia</item>
+        <item>Bongaigaon</item>
+        <item>Nalbari</item>
+        <item>Kokrajhar</item>
+        <item>Kamrup</item>
+        <item>Karbi-Anglong</item>
+        <item>Nagaon</item>
+        <item>N.C.Hills</item>
+        <item>Dhemaji</item>
+        <item>Hailakandi</item>
+        <item>Lakhimpur</item>
+        <item>Sonitpur</item>
+        <item>Dhubri</item>
+        <item>Goalpara</item>
+        <item>Barpeta</item>
+        <item>Golaghat</item>
+        <item>Jorhat</item>
+        <item>Sibsagar</item>
+        <item>Cachar</item>
+
+    </string-array>
+    <string-array name="Bihar">
+        <item> Muzaffarpur</item>
+        <item> Jehanabad</item>
+        <item> Gaya</item>
+        <item> Patna</item>
+        <item> Saran( Chapra )</item>
+        <item> Darbhanga</item>
+        <item> Saharsa</item>
+        <item> Purnea</item>
+        <item> Bhagalpur</item>
+        <item> Munger</item>
+        <item> Aurangabad</item>
+        <item> Bhojpur(Arah) </item>
+        <item> Begusarai</item>
+        <item> East Champaran</item>
+        <item> Gopalganj</item>
+        <item> Jamui</item>
+        <item> Katihar</item>
+        <item> Khagaria</item>
+        <item> Madhepura</item>
+        <item> Madhubani</item>
+        <item> Nalanda</item>
+        <item> Nawada</item>
+        <item> Rohtas(Sasaram)</item>
+        <item> Samastipur</item>
+        <item> Siwan</item>
+        <item> Vaishali(Hajipur)</item>
+        <item> West Champaran</item>
+        <item> Kishanganj</item>
+        <item> Araria</item>
+        <item> Bhabua</item>
+        <item> Banka</item>
+        <item> Buxar</item>
+        <item> Supaul</item>
+        <item> Sekhpura</item>
+        <item> Seohar</item>
+        <item> Lakhisarai</item>
+
+    </string-array>
+    <string-array name="Chandigarh">
+
+        <item> Chandigarh</item>
+
+    </string-array>
+    <string-array name="Chhattisgarh">
+
+        <item>Bastar</item>
+        <item>Bilaspur</item>
+        <item>Dantewada</item>
+        <item>Dhamtari</item>
+        <item>Durg</item>
+        <item>Janjgir-Champa</item>
+        <item>Jashpur</item>
+        <item>Kanker</item>
+        <item>Kawardha</item>
+        <item>Korba</item>
+        <item>Koriya</item>
+        <item>Mahasamund</item>
+        <item>Raigarh</item>
+        <item>Rajnandgaon</item>
+        <item>Surguja</item>
+        <item>Raipur</item>
+
+
+
+
+    </string-array>
+    <string-array name="Dadra">
+        <item> Dadra</item>
+
+    </string-array>
+    <string-array name="Daman">
+        <item> Dama</item>
+        <item> Diu</item>
+
+
+    </string-array>
+    <string-array name="Delhi">
+
+        <item>New Delhi</item>
+        <item>Central</item>
+        <item>North</item>
+        <item>North West</item>
+        <item>West</item>
+        <item>South West</item>
+        <item>North</item>
+
+
+    </string-array>
+    <string-array name="Goa">
+
+        <item >North Goa</item>
+        <item >South Goa</item>
+
+
+    </string-array>
+    <string-array name="Gujarat">
+        <item>Panchmahals</item>
+
+        <item>Vadodara</item>
+
+        <item>Amrela</item>
+
+        <item>Kheda</item>
+
+        <item>Ahmedabad</item>
+
+        <item>Valsad</item>
+
+        <item>Junagadh</item>
+
+        <item>Mehsana</item>
+
+        <item>Banaskantha</item>
+
+        <item>Gandhinagar</item>
+
+        <item>Bharuch</item>
+
+        <item>Dangs</item>
+
+        <item>Jamnagar</item>
+
+        <item>Rajkot</item>
+
+        <item>Surat</item>
+
+        <item>Sabarkantha</item>
+
+        <item>Kutch</item>
+
+        <item>Bhavnagar</item>
+
+        <item>Surendranagar</item>
+
+        <item>Navsari</item>
+
+        <item>Anand</item>
+
+        <item>Narmada</item>
+
+        <item>Patan</item>
+
+        <item>Porbander</item>
+
+        <item>Dahod</item>
+
+
+
+    </string-array>
+    <string-array name="Haryana">
+
+
+        <item>Gurgaon</item>
+        <item>Rohtak</item>
+        <item>Ambala</item>
+        <item>Bhiwani</item>
+        <item>Faridabad</item>
+        <item>Hissar</item>
+        <item>Jind</item>
+        <item>Kaithal</item>
+        <item>Karnal</item>
+        <item>Kurukshetra</item>
+        <item>Mahendragarh</item>
+        <item>Panchkula</item>
+        <item>Panipat</item>
+        <item>Sonipat</item>
+        <item>Yamunanagar</item>
+        <item>Sirsa</item>
+        <item>Rewari</item>
+        <item>Jhanjhar</item>
+        <item>Fatehabad</item>
+
+
+    </string-array>
+    <string-array name="Himachal">
+
+        <item>Sirmour</item>
+        <item>Hamirpur</item>
+        <item>Kullu</item>
+        <item>Solan</item>
+        <item>Mandi</item>
+        <item>Chamba</item>
+        <item>Bilaspur</item>
+        <item>Kinnaur</item>
+        <item>Lahaul-Spiti</item>
+        <item>Shimla</item>
+        <item>Una</item>
+        <item>Kangra</item>
+
+    </string-array>
+    <string-array name="Jammu">
+
+    <item>Kathua</item>
+    <item>Badgan</item>
+    <item>Poonch</item>
+    <item>Rajauri</item>
+    <item>Baramula</item>
+        <item>Udhampur</item>
+    <item>Jammu</item>
+    <item>Kupwara</item>
+    <item>Pulwama</item>
+    <item>Anantnag</item>
+    <item>Srinagar</item>
+    <item>Leh</item>
+    <item>Kargil</item>
+    <item>Doda</item>
+
+
+</string-array>
+<string-array name="Jharkhand">
+<item>Deoghar</item>
+
+<item>	Godda</item>
+
+<item>Gumla</item>
+
+<item>Hazaribagh</item>
+<item>Dhanbad</item>
+<item>Giridih</item>
+<item>Lohardaga</item>
+
+<item>Palamu</item>
+
+<item>Ranchi</item>
+
+<item>Dumka</item>
+
+<item>Chaibasa(West Singhbhum) </item>
+
+<item>Jamshedpur(East Singhbhum) </item>
+
+<item>Bokaro</item>
+
+<item>Chatra</item>
+<item>Garhwa</item>
+
+<item>Koderma</item>
+
+<item>Pakur</item>
+
+<item>Sahebganj</item>
+
+<item>Simdega</item>
+
+<item>Latehar</item>
+
+<item>Saraikela</item>
+
+<item>Jamtara</item>
+
+
+
+</string-array>
+<string-array name="Karnataka">
+<item>	Mysore</item>
+
+<item>Gulberga</item>
+
+<item>Chitradurga</item>
+<item>Kolar</item>
+
+<item>Bijapur</item>
+
+<item>Dakshina Kannada</item>
+
+<item>Raichur</item>
+
+<item>Bellary</item>
+
+<item>Belgaum</item>
+
+<item>Hassan</item>
+
+<item>Dharwad</item>
+
+<item>Bangalore Rural</item>
+
+<item>Shimoga</item>
+
+<item>Mandya</item>
+<item>Chickmagalur</item>
+
+<item>Bangalore Urban</item>
+<item>Madikeri</item>
+
+<item>Tumkur</item>
+<item>Bidar</item>
+
+
+<item>Karwar</item>
+
+<item>Udupi</item>
+<item>Davanagare</item>
+<item>Chamarajnagar</item>
+<item>Koppal</item>
+
+<item>Haveri</item>
+<item>Gadak</item>
+
+<item>Yadgir</item>
+
+
+
+</string-array>
+<string-array name="Kerala">
+
+<item>Kozhikode</item>
+<item>Kasaragod</item>
+<item>Idukki</item>
+<item>Ernakulam</item>
+<item>Cannanore</item>
+<item>Mallapuram</item>
+<item>Palghat</item>
+<item>Pathanamthitta</item>
+<item>Quilon</item>
+<item>Trichur</item>
+<item>Wayanad</item>
+<item>Trivandrum</item>
+<item>Kottayam</item>
+<item>Alapuzzha</item>
+
+
+</string-array>
+<string-array name="Lakshadweep">
+<item> Lakshdweep</item>
+
+
+</string-array>
+<string-array name="Madhya">
+
+<item>Sindi</item>
+<item>Vidisha</item>
+<item>Jabalpur</item>
+<item>Bhopal</item>
+<item>Hoshangabad</item>
+<item>Indore</item>
+<item>Rewa</item>
+<item>Satna</item>
+<item>Shahdol</item>
+<item>Chhindwara</item>
+<item>Ratlam</item>
+<item>Balaghat</item>
+<item>Betul</item>
+<item>Bhind</item>
+<item>Mandla</item>
+<item>Chhattarpur</item>
+<item>Damoh</item>
+<item>Datia</item>
+<item>Dewas</item>
+<item>Dhar</item>
+<item>Guna</item>
+<item>Gwalior</item>
+<item>Jhabua</item>
+<item>Sehore</item>
+<item>Mandsaur</item>
+<item>Narsinghpur</item>
+<item>Panna</item>
+<item>Raisen</item>
+<item>Rajgarh</item>
+<item>Sagar</item>
+<item>Seoni</item>
+    <item>Morena</item>
+<item>Shivpuri</item>
+<item>Shajapur</item>
+<item>Tikamgarh</item>
+<item>Ujjain</item>
+<item>Khandwa</item>
+<item>Khargone</item>
+<item>Dindori</item>
+<item>Umaria</item>
+<item>Badwani</item>
+<item>Sheopur</item>
+<item>Katni</item>
+<item>Neemuch</item>
+<item>Harda</item>
+<item>Anooppur</item>
+<item>Burhanpur</item>
+<item>Ashoknagar</item>
+
+</string-array>
+<string-array name="Maharashtra">
+
+<item>Aurangabad</item>
+<item>Bandra(Mumbai Suburban district) </item>
+<item>Nagpur</item>
+<item>Pune</item>
+<item>Akola</item>
+<item>Chandrapur</item>
+<item>Jalgaon</item>
+<item>Parbhani</item>
+<item>Sholapur</item>
+<item>Thane</item>
+<item>Latur</item>
+<item>Mumbai-City</item>
+<item>Buldhana</item>
+<item>Dhule</item>
+<item>Kolhpur</item>
+<item>Nanded</item>
+<item>Raigad</item>
+<item>Amravati</item>
+<item>Nashik</item>
+<item>Wardha</item>
+<item>Ahmednagar</item>
+<item>Beed</item>
+<item>Bhandara</item>
+<item>Gadchiroli</item>
+<item>Jalna</item>
+<item>Osmanabad</item>
+<item>Ratnagiri</item>
+<item>Sangli</item>
+<item>Satara</item>
+<item>Sindudurg</item>
+<item>Yavatmal</item>
+<item>Nandurbar</item>
+<item>Washim</item>
+<item>Gondia</item>
+<item>Hingoli</item>
+
+
+</string-array>
+<string-array name="Manipur">
+
+<item>Imphal East</item>
+<item>Imphal West</item>
+<item>Thoubal</item>
+<item>Bishnupur</item>
+<item>Chandel</item>
+<item>Churachandpur</item>
+<item>Senapati</item>
+<item>Ukhrul</item>
+<item>Tamenglong</item>
+
+
+</string-array>
+<string-array name="Meghalaya">
+
+<item>Ri-Bhoi District</item>
+<item>South Garo Hills</item>
+<item>East Khasi Hill</item>
+<item>East Garo Hill</item>
+<item>West Garo Hill</item>
+<item>Jaintia Hill</item>
+<item>West Khasi Hill</item>
+
+
+</string-array>
+<string-array name="Mizoram">
+
+<item>Luglei District</item>
+<item>Chimtipui District</item>
+<item>Aizawal</item>
+<item>Champhai</item>
+<item>Mamit</item>
+<item>Kolasib</item>
+<item>Serchhip</item>
+<item>Lawngtlai</item>
+
+
+</string-array>
+<string-array name="Nagaland">
+
+<item>Wokha</item>
+<item>Phek</item>
+<item>Tuensang</item>
+<item>Mon</item>
+<item>Kohima</item>
+<item>Zunheboto</item>
+<item>Mokokchung</item>
+<item>Dimapur</item>
+
+
+</string-array>
+<string-array name="Odisha">
+
+<item>Khurda</item>
+<item>Navaragpur</item>
+<item>Navapada</item>
+<item>Gajapati</item>
+<item>Boudh</item>
+<item>Bhadrak</item>
+<item>Ganjam</item>
+<item>Dhenkanal</item>
+<item>Angul</item>
+<item>Puri</item>
+<item>Cuttak</item>
+<item>Sambalpur</item>
+<item>Kalhandi</item>
+<item>Koraput</item>
+<item>Phulbani</item>
+<item>Balangir</item>
+<item>Bargah</item>
+<item>Deogarh</item>
+<item>Jagatsinghpur</item>
+<item>Jajpur</item>
+<item>Jharsuguda</item>
+<item>Kendrapara</item>
+<item>Malkangiri</item>
+<item>Nayagarh</item>
+<item>Rayagada</item>
+<item>Sonepur</item>
+<item>Balasore</item>
+<item>Mayurbhanj</item>
+<item>Keonjhar</item>
+<item>Sundergarh</item>
+
+
+</string-array>
+<string-array name="Pondicherry">
+<item>Karikal</item>
+
+    <item>Mahe</item>
+
+    <item>Yaman</item>
+
+    <item>Pondicherry</item>
+
+    </string-array>
+<string-array name="Punjab">
+
+<item>Sangrur</item>
+<item>Jalandhar</item>
+<item>Ludhiana</item>
+<item>Bhatinda</item>
+<item>Kapurthala</item>
+<item>Patiala</item>
+<item>Amritsar</item>
+<item>Ferozepur</item>
+<item>Fatehgarh Saheb</item>
+<item>Ropar</item>
+<item>Gurdaspur</item>
+<item>Hosiarpur</item>
+<item>Faridkot</item>
+<item>Mansa</item>
+<item>Moga</item>
+<item>Muktsar</item>
+<item>Navansahar</item>
+
+
+</string-array>
+<string-array name="Rajasthan">
+
+<item>Jaipur</item>
+<item>Barmer</item>
+<item>Dungarpur</item>
+<item>Jodhpur</item>
+<item>Kota</item>
+<item>Udaipur</item>
+<item>Bikaner</item>
+<item>Dausa</item>
+<item>Bundi</item>
+<item>Sikar</item>
+<item>Tonk</item>
+<item>Jaisalmer</item>
+<item>Nagaur</item>
+<item>Rajsamand</item>
+<item>Banswara</item>
+<item>Bhilwara</item>
+<item>Ajmer</item>
+<item>Alwar</item>
+<item>Bharatpur</item>
+<item>Chittorgarh</item>
+<item>Churu</item>
+<item>Dholpur</item>
+<item>Ganganagar</item>
+<item>Jalor</item>
+<item>Jhalawar</item>
+<item>Jhunjhunu</item>
+<item>Pali</item>
+<item>Sawai Madhopur</item>
+<item>Sirohi</item>
+<item>Baran</item>
+<item>Hanumangarh</item>
+<item>Karauli</item>
+
+
+</string-array>
+<string-array name="Sikkim">
+
+<item>East</item>
+<item>Sout</item>
+<item>West</item>
+<item>North</item>
+
+
+</string-array>
+<string-array name="Tamil">
+<item>Chennai</item>
+
+<item>Coimbotore</item>
+
+<item>Cuddalorei</item>
+
+<item>Dharmapuri</item>
+
+<item>Dindigul</item>
+
+<item>Erode</item>
+
+<item>Kancheepuram</item>
+
+<item>Kanniyakumari (HQ : Nagercoil) </item>
+
+<item>Karur</item>
+
+<item>Madurai</item>
+
+<item>Nagapattinam</item>
+
+<item>Namakkal</item>
+<item>Nilgiris (HQ: Udhagamandalam) </item>
+
+<item>Perambalur</item>
+
+<item>Pudukkottai</item>
+<item>Ramanathapuram</item>
+
+<item>Salem</item>
+
+<item>Sivaganga</item>
+
+<item>Thanjavur</item>
+
+<item>Theni</item>
+
+<item>Thoothkudi</item>
+
+<item>Tiruchiorappalli</item>
+
+<item>Tirunelveli</item>
+<item>Tiruvallur</item>
+
+<item>Tiruvannamalai</item>
+
+<item>Tiruvarur</item>
+
+<item>Vellore</item>
+
+<item>Villupuram</item>
+<item>Virudhunagar</item>
+
+
+</string-array>
+<string-array name="Telangana">
+
+</string-array>
+<string-array name="Tripura">
+<item>North District</item>
+
+<item>South District</item>
+
+<item>West District</item>
+<item>Dhalai District</item>
+
+
+</string-array>
+<string-array name="Uttar">
+<item>Allahabad</item>
+
+<item>Aligarh</item>
+
+<item>Bareilly</item>
+
+<item>Gonda</item>
+
+<item>Hardoi</item>
+
+<item>Kanpur Dehat</item>
+
+<item>Ghaziabad</item>
+
+<item>Unnav</item>
+
+<item>Varanasi</item>
+
+<item>Faizabad</item>
+
+<item>Gorakpur</item>
+
+<item>Jhansi</item>
+
+<item>Lucknow</item>
+
+<item>Agra</item>
+
+<item>Meerut</item>
+
+<item>Moradabad</item>
+
+<item>Barabanki</item>
+
+<item>Mainpuri</item>
+
+<item>Etawah</item>
+
+<item>Gazipur</item>
+
+<item>Etah</item>
+
+<item>Muzaffar Nagar</item>
+
+<item>Saharanpur</item>
+
+<item>Bulandshehar</item>
+
+<item>Mathura</item>
+
+<item>Firozabad</item>
+
+<item>Budaun</item>
+
+<item>Shahjahanpur</item>
+
+<item>Pilibhit</item>
+
+<item>Bijnor</item>
+
+<item>Rampur</item>
+
+<item>Kanpur(Nagar) </item>
+
+<item>Farrukhabad</item>
+
+<item>Fatehpur</item>
+
+<item>Pratapgarh</item>
+
+<item>Jalaun</item>
+
+<item>Hamirpur</item>
+
+<item>Lalitpur</item>
+
+<item>Mirzapur</item>
+
+<item>Basti</item>
+
+<item>Deoria</item>
+
+<item>Raebareili</item>
+
+<item>Sitapur</item>
+
+<item>Banda</item>
+
+<item>Lakhimpur-Khedi</item>
+
+<item>Bahraich</item>
+
+<item>Sultanpur</item>
+
+<item>Mau</item>
+
+<item>Azamgarh</item>
+
+<item>Jaunpur</item>
+
+<item>Balia</item>
+
+<item>Bhadoi</item>
+
+<item>Padrauna</item>
+
+<item>Maharajganj</item>
+
+<item>Siddharth Nagar</item>
+
+<item>Sunbhadra</item>
+
+<item>Mahoba</item>
+
+<item>Ambedkarnagar</item>
+
+<item>Gautam Bodda Nagar</item>
+
+<item>Maha Maya Nagar</item>
+
+<item>jyotiba Phoole Nagar</item>
+
+<item>Kaushambi</item>
+
+<item>Shooji Maharaj</item>
+
+<item>Chandauli</item>
+
+<item>Balrampur</item>
+
+<item>Shravati</item>
+
+<item>Bagpat</item>
+
+<item>Kanooj</item>
+
+<item>Oraiyya</item>
+<item>Sant Kabir Nagar</item>
+    </string-array>
+<string-array name="Uttarakhand">
+
+<item>Nainital</item>
+<item>Almora</item>
+<item>Pitoragarh</item>
+<item>Udhamsingh Nagar</item>
+<item>Bageshwar</item>
+<item>Champawat</item>
+<item>Garhwal(Pauri) </item>
+<item>Tehri-Garhwal</item>
+<item>Chamoli( Gopeshwar ) </item>
+<item>Uttarkashi</item>
+<item>Dehradun</item>
+<item>Rudraprayag</item>
+<item>Haridwar</item>
+
+
+</string-array>
+<string-array name="West">
+
+<item>Howrah</item>
+<item>Darjeeling</item>
+<item>Medinipur</item>
+<item>Murshidabad</item>
+<item>Coochbehar</item>
+<item>Malda</item>
+<item>Birbhum</item>
+<item>North 24 Parganas</item>
+<item>South 24 Parganas</item>
+<item>Bankura</item>
+<item>Bardhaman</item>
+<item>Jalpaiguri</item>
+<item>Hooghly</item>
+<item>Nadia</item>
+<item>Dakshin Dinajpur</item>
+<item>Purulia</item>
+<item>Uttar Dinajpur</item>
+<item>Siliguri</item>
+
+    </string-array>
+
+
+
+    <string-array name="cases">
+
+        <item>Enter a Case</item>
+        <item>Child Labor/\nबाल श्रम</item>
+        <item>Child Trafficking/\nबच्चों का अवैध व्यापार</item>
+        <item>Physical Child Abuse/\nशारीरिक बाल दुर्व्यवहार</item>
+        <item>Sexual Child Abuse/\nबाल यौन शोषण</item>
+    <item>Children in Armed Conflicts/\nसशस्त्र संघर्ष में बच्चे</item>
+        <item>Child Marraige/\nबाल विवाह</item>
+        <item>Street Children/\nसड़क पर रहने वाले बच्चे</item>
+        <item>Child Substance Abuse/\nमादक द्रव्यों का सेवन</item>
+        <item>Child Disabilities/\nबाल विकलांगता</item>
+        <item>Child Missing/\nबच्चे लापता</item>
+    </string-array>
+
+    <string name="faq1" formatted="false">"Shishutraan is a web based portal which has been made for the welfare of the children all around our country. It comes under the National Commission For Protection Of Child Rights (NCPCR)  which recognises he tone of urgency in all the child realted policies of the country.The protection of all children in the range of 0&#8211;18 years of age is of equal importance. The moto of shishutraan is that every child in this country irrespective of their colour,race,cast,creed,etc should have equal rights.We want to spread the message that no child should be exploited in any manner. 41.1 % population of India falls under 18 years of age. This is the future generation of our country which will be responsible for the development. If we want our country to progress then we need to nuture this population. Please be a part of this moment. Save child right's ,save the future"</string>
+    <string name="faq2" formatted="false">"Our Main goal is to convey information from people direct to ncpcr.Our goal is to save helpless children from the illeagal activitie which are being conducted all over the country in other word to stop any child rights vioaltion."</string>
+    <string name="faq3" formatted="false">"Signin is done using login id and password in order to use the forum.An Internet forum, or message board, is an online discussion site where people can hold conversations in the form of posted messages.here you can start a specific topic or can chat about any existing thread. A single conversation is called a "thread", or topic."</string>
+    <string name="faq4" formatted="false">"Suo Moto Cognizance means "Take notice of the fact on its own". The source of the information may be newspaper, television or any other source and the commission acts of its own initiative and calls for a report from the concern department (in this case ,the judiciary of India)."</string>
+    <string name="faq5" formatted="false">"One of the core mandates of the institution is to inquire into complaints of violations of child rights. The commission is also required to take same Suo Moto Cognizance of serious cases of violation of child rights. And to examine factor the inhabit the enjoyment of rights of children\n•	Complaints may be made to the commission in any language listed in the 8th commission.\n•	No fee shall be chargable on such complaints.\n•	The complaint shall disclose a complete picture of the matter leading to the complaint.\n•	The commision may seek further information/ affidavit as may be considered necessary.\nWhile making a complaint please ensure that the complaint is:&#8211;\n•	Genuine ,not trivial or frivolous.\n•	Not related to civil disputes such as property rights, contractual obligations and the like.\n•	Not realted to service matters.\n•	Not pending before any other commission duly constituted under the law or sub&#8211;judice before a court /tribunal.\n•	Not already decided by the commission.\n•	Not outside the purview of the commission on any ther grounds"</string>
+    <string name="faq6" formatted="false">"Admins are the employees who are working under NCPCR."</string>
+    <string name="faq7" formatted="false">"	BARE ACTS RELATED TO CHILDREN:&#8211;\n\n1. The Juvenile Justice (Care and Protection of Children) Act 2015,Rules 2016.\n2. THE JUVENILE JUSTICE (CARE AND PROTECTION OF CHILDREN) ACT, 2015.\n3. Protection of Children From Sexual Offences Act, 2012.\n4. Bonded Labour System (Abolition) Act, 1976.\n5. Children (Pledging of Labour) Act, 1933.\n6. Child Labour (Prohibition and Regulation) Rules, 1988.\n7. Child Labour (Prohibition and Regulation) Act, 1986.\n8. Commission For Protection of Child Rights Rules, 2006.\n9. Commisison For Protection of Child Rights, Rules 2006.\n10. Commissions for Protection of Child Rights (Amendment) Act 2006.\n11. Commissions for Protection of Child Rights Act, 2005.\n12. Convention on the Rights of Children CRC.\n13. Factories Act, 1948.\n14. Guardians and Wards act 1890.\n15. Hindu Minority and Guardians Act 1956.\n16. Immoral Traffic (Prevention) Act, 1956.\n17. Infant Milk Substitues Feeding Bottles and Infant (Regulation of Production, Supply and Distribution) Amendment Act 2003.\n18. Infant Milk Substitues Feeding Bottles and Infant (Regulation of Production, Supply and Distribution) Rules 1993.\n19. Infant Milk Substitues Feeding Bottles and Infant (Regulation of Production, Supply and Distribution) Act, 1992.\n20. Juvenile Justice (Care and Protection of Children) Amendment Act, 2011.\n21. Juvenile Justice (Care and Protection of Chidlren) Rules, 2007.\n22. Juvenule Justice (Care and Protection of Children) Amendment Act, 2006.\n23. Juvenile Justice (Care and Protection of Children) Act, 2000.\n24. Medical Termination of Pregnancy Act, 1971 .\n25. Mines Act, 1952 .\n26. National Food Security Act, 2013.\n27. Protection of Children From Sexual Offences Rules, 2012.\n28. Prohibition of Child Marriage Act 2006.\n29. Prenatal Diagnostic Techniques (Regulation and Prevention of Misuse) Act, 1994.\n30. Right of Children to Free and Compulsory Education Rules , 2010 .\n31. Right of Children to Free and Compulsory Education Act 2009.\n32. Young Persons (Harmful Publication) Act, 1956."</string>
+    <string name="faq8" formatted="false">"In the majority of jurisdictions, for instance, children are not allowed to vote, to marry, to buy alcohol, to have sex, or to engage in paid employment.[32] Within the youth rights movement, it is believed that the key difference between children's rights and youth rights is that children's rights supporters generally advocate the establishment and enforcement of protection for children and youths, while youth rights (a far smaller movement) generally advocates the expansion of freedom for children and/or youths and of rights such as suffrage."</string>
+    <string name="faq9" formatted="false">"Children’s rights law is defined as the point where the law intersects with a child's life. That includes juvenile delinquency, due process for children involved in the criminal justice system, appropriate representation, and effective rehabilitative services; care and protection for children in state care; ensuring education for all children regardless of their race, gender, sexual orientation, gender identity, national origin, religion, disability, color, ethnicity, or other characteristics, and; health care and advocacy."</string>
+    <string name="faq10" formatted="false">"A. THE CHILD RIGHTS WHICH ARE SPECIFICALLY MADE FOR CHILDREN ARE GIVEN BELOW:&#8211;\n1. Right to free and compulsory elementary education for all children in the 6&#8211;14 year age group   (Article 21 A)\n2. Right to be protected from any hazardous employment till the age of 14 years (Article 24)\n3. Right to be protected from being abused and forced by economic necessity to enter occupations unsuited to their age or strength (Article 39(e))\n4. Right to equal opportunities and facilities to develop in a healthy manner and in conditions of freedom and dignity and guaranteed protection of childhood and youth against exploitation and against moral and material abandonment (Article 39 (f))\n5. Right to early childhood care and education to all children until they complete the age of six years (Article 45)\nB.Besides, Children also have rights as equal citizens of India, just as any other adult male or female:&#8211;\n1. Right to equality (Article 14)\n2. Right against discrimination (Article 15)\n3. Right to personal liberty and due process of law (Article 21)\n4. Right to being protected from being trafficked and forced into bonded labour (Article 23)\n5. Right of minorities for protection of their interests (Article 29)\n6. Right of weaker sections of the people to be protected from social injustice and all forms of exploitation (Article 46)\n7. Right to nutrition and standard of living and improved public health (Article 47)"</string>
+    <string name="faq11" formatted="false">"1. Abuse and Violence:&#8211;\n1.A. Physical abuse is when a child has been physically harmed due to some interaction or lack of interaction by another person, which could have been prevented by any person in a position of responsibility, trust or power\nB. Emotional abuse can be seen as a failure to provide a supportive environment and primary attachment figure for a child so that they may develop a full and healthy range of emotional abilities. Emotional abuse is also the act of causing harm to a child's development, when they could have been within reasonable control of a person responsible for the child. Examples of these acts are restricting movement, threatening, scaring, discriminating, ridiculing, belittling, etc. In India a rising concern is the pressure children feel to perform well in school and college examinations, which can be seen as a form of emotional stress and abuse.\nC. Sexual abuse is engaging a child in any sexual activity that he/she does not understand or cannot give informed consent for or is not physically, mentally or emotionally prepared for. Abuse can be conducted by an adult or another child who is developmentally superior to the victim. This includes using a child for pornography, sexual materials, prostitution and unlawful sexual practises.\nD. Neglect or negligent treatment is purposeful omission of some or all developmental needs of the child by a caregiver with the intention of harming the child. This includes the failure of protecting the child from a harmful situation or environment when feasible.\nE. Exploitation can be commercial or otherwise, where by the child is used for some form of labour, or other activity that is beneficial for others. Example: child labour or child prostitution.\nTrafficking:&#8211;\n2. 2. Human trafficking is the third largest profitable industry in the world. Child trafficking unlike many other issues is found in both developed and developing nations. Trafficked children are used for prostitution, forced into marriage, illegally adopted, used as cheap or unpaid labour, used for sport and organ harvesting. Some children are recruited into armed groups. Trafficking exposes children to violence, abuse, neglect and exploitation. According to UNICEF a child victim of trafficking is "any person under 18 who is recruited, transported, transferred, harboured or received for the purpose of exploitation, either within or outside a country". Trafficking is one of the hardest crimes to track and investigate hence data is hard to obtain.\n3. Child Labour:&#8211;\n3.Poverty and lack of social security are the main causes of child labour. The increasing gap between the rich and the poor, privatization of basic services and the neo&#8211;liberal economic policies are causes major sections of the population out of employment and without basic needs. This adversely affects children more than any other group. Entry of multi&#8211;national corporations into industry without proper mechanisms to hold them accountable has lead to the use of child labour. Lack of quality universal education has also contributed to children dropping out of school and entering the labour force. A major concern is that the actual number of child labourers goes un&#8211;detected. Laws that are meant to protect children from hazardous labour are ineffective and not implemented correctly.\n4. Conflict with Law:&#8211;\n4.The term 'children in conflict with the law' refers any person below the age of 18 who has come in contact with the justice system as a result of committing a crime or being suspected of committing a crime. Most children in conflict with the law have committed petty crimes such as vagrancy, truancy, begging or alcohol use. Children in Conflict with LawSome have committed more serious offenses. Some children are coerced into crime by adults who use them as they know they cannot be tried as adults.\n\n5. Child Marriage:&#8211;\n5.Child marriage as marriage before 18 years of age and considers this practise as a violation of human rights. The harmful consequences of child marriage are segregation from family and friends, limiting the child's interactions with the community and peers, lack of opportunities for education. Child Marriage Girl children often face situations of bonded labour, enslavement, commercial sexual exploitation and violence as a result of child marriage. Because of lack of protection child brides are often exposed to serious health risks, early pregnancy, and various STDs especially HIV/AIDS. There are many reasons why parents consent to child marriage such as economic necessity, male protection for their daughters, child bearing, or oppressive traditional values and norms.\n\n6. Child Sexual Abuse\n6.Child sexual abuse has existed in all societies for centuries.  The standing committee on sexually abused children (Bajpai, 2003) has defined Child Sexual Abuse as 'Any child below the age of consent may be deemed to have been sexually abused when a sexually mature person has by design or by neglect of their usual societal or specific responsibility in relation to the child engaged or permitted engagement of that child in any activity of a sexual nature which is intended to lead to the sexual gratification of the sexually mature person. This definition pertains whether or not it involves genital or physical contact, whether or not initiated by the child and whether or not there is a discernible harmful outcome in the short run.'\n\n7. Without Parental Care\n7. Children worldwide lose their parents in conflict, or due to poverty, disability, HIV/AIDS. Hence there is a large population of children that grow up without one or both of their parents. Children without parental care are at a high risk of abuse, exploitation and neglect. Large numbers of children end up in institutional care. Inadequate individual care of institutions can socially and emotional impair children.\n the definition of street is not in the literal sense, but refers to those children without a stable home or shelter. There are three major categories of street children:\n\n8. Street Children:&#8211;\n8. Children who live on the street with their families and often work on the street. There may be children from migrated families, or temporarily migrated and are likely to go back to their homes.Children who live on the street by themselves or in groups and have remote access or contact with their families in the villages. Some children travel to the cities for the day or periods of time to work and then return to their villages.Children who have no ties to their families such as orphans, refugees and runaways.\n9. Birth Registration\n9. Birth registration is the official recording of a child's birth by the government administrative processes. Recognising and recording the birth of a child is vital to acknowledging the rights and practical needs of that child. It is a permanent and certified record of the child's existence. Birth registration allows a child to have a nationality, which in turn allows the child to get a passport, open a bank account, obtain credit, vote and find employment. It also helps a child get access to basic health and education services. Having a record of a child's birth is also essential in ensuring that child is accounted for in the protection system. It prevents a child from slipping through the cracks into hazardous child labour, allows for proper age determination in case of juvenile conflicts, avoids recruiting of children into the military, makes countering child marriage more efficient, and helps keep a record of the child and his/her family in case of runaways or lost children.\n10. Armed Conflicts\n10. War and conflict leave populations of people vulnerable to extreme forms of violence. Children are affected by this break down of protection systems. They are vulnerable to rape, abduction, separation from their families, disabilities and grievous injuries, and long&#8211;term psychos. A 'Child Soldier' as any person below the age of 18 that has been coerced or recruited by a regular or irregular armed group in any capacity; this includes cooks and messengers. It also includes girls who have been recruited during armed conflict for sexual purposes and marriage. Therefore is it not necessary that a child soldier be carrying or handle a weapon. Children join armed conflict cause of coercion or abduction or because of poverty, societal pressure, or to get revenge for violence committed against their families.ocial effects. Children in conflict zones are at a risk for disease, displacement and death.\n11. Disability\n11. In India children with disabilities mainly comes under the purview of the Ministry of Social Justice and Empowerment. Some of the issues are dealt with by the health ministry. But no single ministry has been assigned the protection of these children, which leads to varying data about occurrence of disability amongst children.35.29% of all people living with disabilities are children. Other estimates say that India has 12 million children living with disabilities. Only 1% of children with disabilities have access to school and one third of most disabilities are preventable. Under&#8211;nutrition is a severe problem with children who suffer from cerebral palsy. In India 80% of children with disabilities will not survive past age forty.The main causes of disability in children are\nA. Communicable disease\nB. Infection in early childhood\nC. Early motherhood\nD. Nutritional deficiencies\nE. Insufficient or inaccessible health care services\nF. Inadequate sanitation\nG. Inter&#8211;family marriages\n12. Drug Abuse\n12. The incidence of drug abuse among children and adolescents is higher than the general population. This is notably because youth is a time for experimentation and identity forming. In developed countries drug abuse among youth is generally associated with particular youth subcultures and lifestyles. This causes an acceptance by members of the subcultures of drugs and their use. In Asia figures of drug abuse are hard to find but after cannabis, Amphetamine&#8211;type Stimulants (ATS) are the most commonly uses amongst children and youth.The problem in India is there are no sensitization programmes about drug abuse in schools or for children out of school. India does not have a substance abuse policy.\n13. Girl Child\n13. The girl child's discrimination begins before birth in the form of female foeticide. Sex selection has been argued as the consequence of technology. But simply because it is a consequence it does not excuse the fact that between the years 1981&#8211;1991 a whopping 11 million  Girl Child Rights and Protection in India  girls joined India's missing women a group of 35 and 40 million.  Girl Child Rights and Protection in India According to Amartya Sen there are more than a hundred million women missing in the world of which India has 37 million missing women by 1986. Girl children are murdered shortly after being born when the family comes to know the sex of the child or killed slowly through neglect and abandonment. In 1993 in Tamil Nadu 196 girls died in suspicious circumstances. "Some were fed dry, un&#8211;hulled rice that punctured their windpipes, or were made to swallow poisonous powdered fertilizer. Others were smothered with a wet towel, strangled or allowed to starve to death". Girl Child Rights and Protection in India  The larger consequence to both female foeticide and infanticide has been the sharply declining sex ratio.\n14. HIV &#8211; AIDS:&#8211;\n14. Children are not only personally affected by HIV/AIDS but it is also affecting their families and their right to a parental care and affection. Infection can lead children to drop out of school; infection of parents can lead children to engage in child labour in order to survive. Many children are orphaned and highly exposed to abuse, exploitation and neglect because of a loss of a parent(s) or guardian. It is estimated that a child looses a parent to AIDS&#8211;related infections every 14 seconds, mostly in Sub&#8211;Saharan Africa. Many situations also put children at higher risk of getting infected such as recruitment into armed conflict, trafficking, displacement, etc.\n15. Missing Children:&#8211;\n15. A countless number of children go missing every year. The category of missing children include a number of problems including abduction or kidnapping of children by family members and by non&#8211;family members, run&#8211;away children or those forced to run away by family and surrounding circumstances, children who are in a difficult or aggressive environment, trafficked children, and lost children. Missing Children  Because of this wide array of problems it is hard to survey the number of missing children. Often cases are not reported to the police.Children who go missing may be exploited and abused for various purposes from camel jockeys in the Gulf countries to victims of organ trade and even grotesque cannibalism as reported at Nithari village in Noida. There are also a large number of children who run away from homes after dropping out of school or facing difficulties at home. They usually run away to the glamorous big cities where they fall prey to exploiters and are employed in tea stalls, brothels, beggary, etc. Most of the children come from poorer families who do not have access to police services or whose reports are not taken seriously.\n•	Child line helpline India's first 24&#8211;hour, free, emergency phone service for children in need of aid and assistance. Whether you are a concerned adult or a child, you can dial 1098, the toll free number to access our services. It doesn't only respond to the emergency needs of children, but also link them to services for their long&#8211;term care and rehabilitation."</string>
+
+</resources>

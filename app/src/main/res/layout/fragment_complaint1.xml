@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:background="#FF4ABFFD">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/complaint"
+            android:layout_marginRight="20dp"
+            android:layout_marginLeft="20dp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="&apos;Childhood should be free playing in the sun, not living a NIGHTMARE in the darkness of the soul.' -Dave Pelzer"
+            android:paddingLeft="40dp"
+            android:paddingRight="40dp"
+            android:textAlignment="center"
+            android:textStyle="bold|italic"
+            android:textColor="#000000"
+            android:textSize="15dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingTop="10dp"
+        android:orientation="horizontal"
+        android:layout_marginTop="20dp">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/child1"
+            android:layout_weight="50"
+            android:layout_marginTop="-10dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="We, at Shishu Traan, believe in creating a world where there is no child who feels helpless. However hard we try but it&apos;s impossible to accomplish the goal without the help of the people of our nation."
+            android:layout_weight="50"
+            android:textSize="19dp"
+            android:textAlignment="textEnd"
+            android:textColor="#000000"
+            android:layout_marginTop="10dp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:paddingTop="10dp"
+            android:orientation="horizontal">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="All we require is just a few second of your&apos;s. Even a very little of your concern to this complaint section can save a child&apos;s life."
+            android:layout_weight="50"
+            android:textSize="19dp"
+            android:paddingTop="20dp"
+            android:textColor="#000000"
+            android:textAlignment="textStart" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:src="@drawable/child2"
+                android:layout_weight="50"
+                android:layout_marginTop="-10dp" />
+
+    </LinearLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="So, go ahead and\n SAVE A LIFE!"
+            android:paddingRight="10dp"
+            android:paddingLeft="10dp"
+            android:textAlignment="center"
+            android:textSize="25dp"
+            android:textColor="#000000"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Your Details:"
+            android:layout_marginRight="10dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="10dp"
+            android:textColor="#000000"
+            android:typeface="monospace"
+            android:layout_marginBottom="5dp" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:hint="\tName"
+            android:id="@+id/name_fc1"
+            android:background="#5005334c"
+            android:textColorHint="#90ffffff" />
+
+
+
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:id="@+id/mobile_fc1"
+            android:hint="\tMobile Number"
+            android:background="#5005334c"
+            android:textColorHint="#90ffffff"
+            android:layout_marginTop="10dp" />
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:id="@+id/email_fc1"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:hint="\tEmail ID"
+            android:background="#5005334c"
+            android:textColorHint="#90ffffff"
+            android:layout_marginTop="10dp" />
+
+        <Spinner
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:id="@+id/state_fc1"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="10dp"/>
+
+        <Spinner
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:id="@+id/district_fc1"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="10dp"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:id="@+id/pin_fc1"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:hint="\tPin Code"
+            android:background="#5005334c"
+            android:textColorHint="#90ffffff"
+            android:layout_marginTop="10dp" />
+
+        <Spinner
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:id="@+id/case_fc1"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="10dp"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:layout_marginLeft="20dp"
+            android:clickable="true"
+            android:id="@+id/image_fc1"
+            android:layout_marginRight="20dp">
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:src="@drawable/ic_action_name"
+                android:layout_weight="50"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Attach any image (if available) related to the incident."
+            android:layout_marginLeft="10dp"
+            android:textSize="15dp"
+            android:layout_weight="05"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="10dp"
+            android:textColor="#000000" />
+        </LinearLayout>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/bNext_fc1"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="11dp"
+            android:background="#000000"
+            android:text="NEXT"
+            android:textColor="#ffffff"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="This complaint will be further processed by NCPCR using suo moto cognizance."
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="30dp"
+            android:textAlignment="center"
+            android:textColor="#000000"
+            android:id="@+id/textView2" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/faq_fc1"
+            android:text="To know more go to Help/FAQs"
+            android:layout_marginTop="20dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginLeft="10dp"
+            android:textAlignment="center"
+            android:textColor="#000000"
+            android:layout_marginBottom="30dp" />
+    </LinearLayout>
+</ScrollView>

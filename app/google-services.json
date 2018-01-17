@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "754154615969",
+    "firebase_url": "https://shishu-traan.firebaseio.com",
+    "project_id": "shishu-traan",
+    "storage_bucket": "shishu-traan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754154615969:android:0ab4fdfd7788eaff",
+        "android_client_info": {
+          "package_name": "com.ncpcr.visionaries.sishutraan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754154615969-112g9llkngsual8kp78gb4pujeu2cpqv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ncpcr.visionaries.sishutraan",
+            "certificate_hash": "12d02aff42ad60a2ed3153d938df4b1173bf8944"
+          }
+        },
+        {
+          "client_id": "754154615969-qrsbc8uiebfcj4dksfne869kkr6d8q5f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByJF4o90bRhBe_S-ewBCqtgtD3OhhqQaA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754154615969-qrsbc8uiebfcj4dksfne869kkr6d8q5f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
